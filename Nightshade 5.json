@@ -66,85 +66,85 @@
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "BACKGROUND_SECONDARY": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "BACKGROUND_SURFACE_RAISED": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "BACKGROUND_TERTIARY": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "BG_BASE_SECONDARY": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "BG_BASE_TERTIARY": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "BG_SURFACE_OVERLAY": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "BG_SURFACE_RAISED": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "CARD_PRIMARY_BG": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "CARD_SECONDARY_BG": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "EMBED_BACKGROUND": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "INPUT_BACKGROUND_DEFAULT": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "KEYBOARD": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "PANEL_BG": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#FF99DA"
+      "#FFFFFF00"
     ],
     "HEADER_PRIMARY": [
       "#FF52D9"
@@ -272,17 +272,17 @@
     "PRIMARY_600": "#FFFFFF00",
     "PRIMARY_DARK_700": "#FFFFFF00",
     "PRIMARY_DARK_800": "#FFFFFF00",
-    "PLUM_16": "#FF99DA",
-    "PLUM_19": "#FF99DA",
-    "PLUM_21": "#FF99DA",
-    "PLUM_22": "#FF99DA",
-    "PRIMARY_460": "#FF99DA",
-    "PRIMARY_630": "#FF99DA",
-    "PRIMARY_660": "#FF99DA",
-    "PRIMARY_700": "#FF99DA",
-    "PRIMARY_DARK_600": "#FF99DA",
-    "PRIMARY_DARK_630": "#FF99DA",
-    "PRIMARY_DARK_660": "#FF99DA",
+    "PLUM_16": "#FFFFFF00",
+    "PLUM_19": "#FFFFFF00",
+    "PLUM_21": "#FFFFFF00",
+    "PLUM_22": "#FFFFFF00",
+    "PRIMARY_460": "#FFFFFF00",
+    "PRIMARY_630": "#FFFFFF00",
+    "PRIMARY_660": "#FFFFFF00",
+    "PRIMARY_700": "#FFFFFF00",
+    "PRIMARY_DARK_600": "#FFFFFF00",
+    "PRIMARY_DARK_630": "#FFFFFF00",
+    "PRIMARY_DARK_660": "#FFFFFF00",
     "BRAND_730": "#FF52D9",
     "PLUM_1": "#FF52D9",
     "PLUM_4": "#FF52D9",
