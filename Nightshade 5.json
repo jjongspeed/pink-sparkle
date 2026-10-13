@@ -304,11 +304,11 @@
   "plus": {
     "version": 0,
     "customOverlays": true,
-    "iconpack": "rosiecord-plumpy"
+    "iconpack": "solar"
   },
   "spec": 2,
   "background": {
-    "url": "https://i.pinimg.com/736x/c1/12/06/c11206efb57dc0177937806da96305fc.jpg",
+    "url": "https://files.catbox.moe/6rwrmu.jpg",
     "alpha": 1,
     "size": "cover",
     "position": "center"
